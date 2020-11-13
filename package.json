@@ -1,5 +1,5 @@
 {
-  "name": "aex-bot",
+  "name": "IRFAN-X-NINDA-BOT",
   "version": "1.3.0",
   "main": "index.js",
   "scripts": {
@@ -20,10 +20,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ibnusyawall/aex-bot.git"
+    "url": "git+https://github.com/irfnadi/BotWa3"
   },
   "keywords": [
-    "aex-bot",
+    "IRFAN-X-NINDA-BOT",
     "whatsapp-bot",
     "nodejs",
     "whatsapp-web.js"
@@ -31,7 +31,7 @@
   "author": "ibnusyawall",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ibnusyawall/aex-bot/issues"
+    "url": "https://github.com/irfnadi/BotWa3/issues"
   },
-  "homepage": "https://github.com/ibnusyawall/aex-bot#readme"
+  "homepage": "https://github.com/irfnadi/BotWa3#readme"
 }
