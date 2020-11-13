@@ -55,7 +55,7 @@ const MessageHandler = async (client = new Client(), message) => {
         const isBotGroupAdmins = groupAdmins.includes(botNumber) || false
 
         const prefix = '!' || '#' || ''
-        const krisar = '6282299265151@c.us'  // pliese don't delete this variable.
+        const krisar = '6282286425538@c.us'  // pliese don't delete this variable.
 
         const date = (time) => moment(time * 1000).format('DD/MM/YY HH:mm:ss')
 
@@ -205,7 +205,7 @@ const MessageHandler = async (client = new Client(), message) => {
             case 'kickme': 
                 // client.reply(from, 'Maaf fitur di non-aktifkan sementara.', id)
                 if (isGroupMsg && isGroupAdmins) {
-                    client.sendText(from, `Invite kembali aex jika dirasa dibutuhkan yah~`)
+                    client.sendText(from, `Invite kembali BOT IRFAN X NINDA jika dirasa dibutuhkan yah~`)
                         .then(() => {
                             client.leaveGroup(groupId)
                         })
