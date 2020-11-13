@@ -1,13 +1,13 @@
 <div align="center">
 
-# AEX-BOT WHATSAPP
+# IRFAN-NINDA BOT WHATSAPP
 [![CodeFactor](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/badge/master)](https://www.codefactor.io/repository/github/ibnusyawall/aex-bot/overview/master)
 <details>
  <summary>Help me!</summary>
 
- [Saweria](https://saweria.co/donate/ibnusyawall)
+ [WhatsApp](https://wa.me/6282286425538)
 
- [Paypal.me](https://paypal.me/syawal24)
+ [Gopay](082286425538)
 
 </details>
 </div>
@@ -21,8 +21,8 @@
 ### Install
 
 ```sh
-$ git clone https://github.com/ibnusyawall/aex-bot.git
-$ cd aex-bot
+$ git clone https://github.com/irfnadi/BotWa3
+$ cd BotWa3
 $ npm i
 $ npm start
 ```
@@ -89,4 +89,4 @@ Fix Stuck on linux, install google chrome stable:
 > sudo apt install ./google-chrome-stable_current_amd64.deb
 ```
 
-any question? contact me at [Whatsapp](https://wa.me/6282299265151) or [Telegram](https://t.me/isywl)
+any question? contact me at [Whatsapp](https://wa.me/6282286425538) or [Telegram](https://t.me/Mr14S)
